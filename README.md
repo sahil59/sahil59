@@ -61,4 +61,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil59&show_icons=true&locale=en" alt="sahil59" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil59&" alt="sahil59" /></p>
-[![An image of @sahil59's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahil59)](https://holopin.io/@sahil59)
+[![An image of @sahil59's Holopin badges, which is a link to view their full Holopin profile]()]()
+<a href='https://holopin.io/@sahil59'>
+    <img src='https://holopin.me/sahil59'/>
+</a>
